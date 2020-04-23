@@ -5,5 +5,3 @@
 * Refactor the code for the better, using any techniques you are aware of
 * Place code in load_contents.js
 * Take path as an argument
-
-# Refer load_contents.js
