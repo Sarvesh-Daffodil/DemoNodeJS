@@ -10,6 +10,10 @@
 * d) Output the data to file `output.json`, the file format should match (ii) Example output data for the given input data in (i), this is simply a json file
 * e) Create a success scenario black box test
 
+# a,b,c,d) 
+To run in Section5
+* node index.js 
+
 # e) Success Scenario
 
 * When input is desired
