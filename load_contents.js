@@ -21,7 +21,7 @@ const getFileContents = async (path) => {
            throw Error('Error trying to get stats');
        }
        
-       if (stats.size <= 0) {
+       if (stats && stats.size <= 0) {
            throw Error('File exists but there is no content');
        }
        try {
